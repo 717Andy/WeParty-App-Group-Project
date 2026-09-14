@@ -143,12 +143,6 @@ npm install
 
 ---
 
-## Resume / Portfolio Blurb
-
-> Built **WeParty**, a Kotlin/Jetpack Compose Android app for collaborative party planning with Firebase. Owned the event dashboard experience — real-time Firestore chat, shared item checklists with claim ownership, unread indicators, and push/in-app notifications for messages and checklist updates.
-
----
-
 ## License
 
 Class / academic group project. Not published as a commercial product.
